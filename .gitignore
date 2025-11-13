@@ -1,0 +1,15 @@
+# Build results
+obj/
+bin/
+Properties/
+
+
+# ASP.NET / IIS
+project.lock.json
+project.fragment.lock.json
+appsettings.Development.json
+appsettings.Local.json
+appsettings.json
+launchSettings.json
+*.pubxml
+*.publish.xml
