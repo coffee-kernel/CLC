@@ -3,6 +3,20 @@ obj/
 bin/
 Properties/
 
+# Frontend folders # node related
+node_modules/
+.vscode/
+package-lock.json
+package.json
+tsconfig.json
+tsconfig.app.json
+tsconfig.spec.json
+angular.json
+
+# backend 
+appsettings.Development.json
+appsettings.json
+
 
 # ASP.NET / IIS
 project.lock.json
